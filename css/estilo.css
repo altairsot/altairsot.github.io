@@ -100,7 +100,7 @@ text-align: center;
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #E8EEF4;
+  background-color: #068C7D;
   overflow: hidden;
 }
 
@@ -122,7 +122,7 @@ text-align: center;
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #068C7D;
+  background-color: #FAFAFA;
   color: white; 
 }
 
