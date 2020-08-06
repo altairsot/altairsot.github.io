@@ -69,7 +69,21 @@ color: #068C7D;
 text-align: center;
 }
 
+h4
+{
+font: Verdana, sans-serif;
+color: #068C7D;
+text-align: center;
+}
+
 h5
+{
+font: Verdana, sans-serif;
+color: #068C7D;
+text-align: center;
+}
+
+h6
 {
 font: Verdana, sans-serif;
 color: #068C7D;
@@ -89,7 +103,7 @@ ul#menu
 padding: 0px;
 position: relative;
 margin: 0;
-text-align: center;
+text-align: left;
 }
 
 ul#menu li
@@ -108,6 +122,13 @@ border-radius: 4px 4px 0 0;
 ul#menu li a:hover
 {
 background-color: #e8eef4;
+color: black; 
+}
+
+ul#menu li a:active
+{
+background-color: #068C7D;
+color: white; 
 }
 
 /* W3.CSS 4.13 June 2019 by Jan Egil and Borge Refsnes */
