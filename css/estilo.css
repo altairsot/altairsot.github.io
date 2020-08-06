@@ -98,37 +98,32 @@ color: #238E23;
 text-align: center;
 }
 
-ul#menu
-{
-padding: 0px;
-position: relative;
-margin: 0;
-text-align: left;
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #E8EEF4;
+  overflow: hidden;
 }
 
-ul#menu li
-{
-display: inline;
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #F2F2F2;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 16px;
 }
 
-ul#menu li a
-{
-padding: 10px 20px;
-text-decoration: none;
-line-height: 2.8em;
-border-radius: 4px 4px 0 0;
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #E8EEF4;
+  color: black; 
 }
 
-ul#menu li a:hover
-{
-background-color: #e8eef4;
-color: black; 
-}
-
-ul#menu li a:active
-{
-background-color: #068C7D;
-color: white; 
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #068C7D;
+  color: white; 
 }
 
 /* W3.CSS 4.13 June 2019 by Jan Egil and Borge Refsnes */
