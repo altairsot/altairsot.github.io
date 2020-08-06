@@ -116,8 +116,8 @@ text-align: left;
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #E8EEF4;
-  color: white; 
+  background-color: #FFFFFF;
+  color: #068C7D; 
 }
 
 /* Add a color to the active/current link */
