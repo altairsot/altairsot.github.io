@@ -128,6 +128,33 @@ color: #238E23;
 text-align: left;
 }
 
+/*Cor dos links*/
+<style>
+a:link {/*Link no texto*/
+  color: #068C7D;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {/*Link visitado*/
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+/*a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}*/
+</style>
+
 /* W3.CSS 4.13 June 2019 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
