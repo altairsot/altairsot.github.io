@@ -1,0 +1,84 @@
+<html>
+<head> <!-- CABEÇALHO -->
+	<meta charset="utf-8" />
+	<meta name="author" content="Altair" >
+	<meta content="text/html; charset=UTF-8">
+	<title>. : Altair Santos de Oliveira-Tosti : .</title>
+	<meta name="description" content="Homepage of Altair Santos de Oliveira Tosti"/>
+	<meta name="keywords" content="Altair Santos de Oliveira Tosti, Altair Tosti"/>
+	<meta name="viewport"acontent="width=device-width, initial-scale=1">	
+	<link href="../../css/estilo.css" rel="stylesheet">
+	<!--Thanks to Yuri Santos-->
+	<link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="../../css/menor.css" />
+	<link type="text/css" rel="stylesheet" media="only screen and (min-device-width: 481px)" href="../../css/maior.css" />
+</head>
+
+<!DOCTYPE html>
+	<title>. . : : Altair Santos de Oliveira-Tosti : : . .</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">-->
+	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<style>
+		html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+	</style>
+	<body class="w3-light-grey">
+<!-- Menu de navegação-->
+<div class="topnav">
+	<a class="active" href="https://altairsot.github.io/index.html">Página Principal</a>
+	<a href="https://altairsot.github.io/ensino.html">Ensino</a>
+	<a href="https://altairsot.github.io/orientacoes.html">Orientações</a>
+	<a href="https://altairsot.github.io/pesquisa.html">Pesquisa</a>
+</div>
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+	<!-- The Grid -->
+	<div class="w3-row-padding">
+		<div class="w3-container w3-card w3-white w3">
+			<h3 class="w3-padding-16">Introdução ao Cálculo</h3>
+				<div class="w3-container w3-card w3-white w3-margin-bottom">
+        				<h5 class="w3-opacity w3-center"><b>Ementa</b></h5>
+						<p>Conjuntos numéricos. Números reais. Equações e inequações. Funções reais de uma variável real. Orientação de atividades de Prática como Componente Curricular.</p>
+					<h5 class="w3-opacity w3-center"><b>Horário de Atendimento</b></h5>
+						<p>Quinta-feira: 18h00 - 19h00</p>
+            <p>Sexta-feira: 18h00 - 19h00</p>
+
+						<p></p>
+					<h5 class="w3-opacity w3-center"><b>Formas e Critérios de Avaliação</b></h5>
+						<p>A avaliação da aprendizagem se dará de forma contínua durante todo o período letivo. Serão realizadas:</p>
+    						<p>04 (quatro) avaliações, cujas notas serão denotadas por A1, A2, A3 e A4. Todas as avaliações terão valores mínimo 0 (zero) e máximo 100 (cem). As avaliações A1 e A2 serão aplicadas no primeiro semestre letivo, enquanto que as provas A3 e A4 serão aplicadas no segundo semestre letivo;</p>
+    						<p>Atividades quinzenais ao final da aula, ou na plataforma AVA, cujas datas ficam a cargo do docente. A média simples das notas dessas atividades será denotada por MA;</p>
+    						<p>A média final (MF) do discente será calculada da seguinte maneira: (2xMA + 2xA1 + 3xA2 + 3xA3 + 4xA4) / 14.</p>
+					<h5 class="w3-opacity w3-center"><b>Referências</b></h5>
+						<p>
+							<b>Referência Básica</b><br>
+							      ÁVILA, G. Análise matemática para a licenciatura. São Paulo: Edgard Blucher, 2001.<br>
+                    CARNEIRO, V. C. Funções elementares. Porto Alegre: Editora da UFRGS, 1993.<br>
+                    DOMINGUES, H. H. Fundamentos de aritmética. São Paulo: Atual, 1998.<br>
+                    FLEMMING, D. M.; GONÇALVES, M. B. Cálculo A. São Paulo: Makron Books, 1992.<br>
+                    GIMENEZ, C. S. C.; STARKE, R. Introdução ao cálculo. 2 ed. Florianópolis, UFSC/EAD/CED/CFM, 2010.<br>
+                    GUIDORIZZI, H. L. Um curso de cálculo, vol 1. 6a edição. São Paulo: LTC, 2018.<br>
+                    LIPSCHUTZ, S. Matemática finita. Coleção Schaum. São Paulo: McGraw-Hill, 1972.<br>
+                    STEWART, J. Cálculo, volume 1. 7a edição. São Paulo: Cengage Learning, 2013.<br>
+ 							<b>Referência Complementar</b><br>
+							      LIMA, E. L.; CARVALHO, P. C. P.; WAGNER, E.; MORGADO, A. C. A matemática do ensino médio. Rio de Janeiro: SBM, 2001. v. 1. (Coleção do Professor de Matemática);<br>
+                    LIMA, E.L. Números e funções reais. SBM, 2014 (Coleção PROFMAT).<br>
+                    SIMMONS, G. F. Cálculo com geometria analítica. São Paulo: McGraw- Hill Ltda., 1985.<br>
+                    SPIVACK, M. Calculus. Houston: Publish or Perish, 1994.<br>
+                    ZILL, D.; DOWAR, J. Basic mathematics for calculus. New York: McGraw-Hill, 1994.<br>
+						</p>
+					<h5 class="w3-opacity w3-center"><b>Listas de Exercícios</b></h5>
+					<p>As listas de exercícios serão disponibilizadas no AVA-UENP e via SUAP. A entrega será feita unicamente via AVA-UENP.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	 <!-- End Grid -->
+</div>
+<!-- End Page Container -->
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+	<p>O conteúdo desta página é de responsabilidade do autor. Modelo obtido em <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a> e adaptado pelo autor.</p> 
+</footer>
+</body>
+</html>
