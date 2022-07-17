@@ -1,0 +1,60 @@
+<html>
+<head> <!-- CABEÇALHO -->
+	<meta charset="utf-8" />
+	<meta name="author" content="Altair" >
+	<meta content="text/html; charset=UTF-8">
+	<title>. : Altair Santos de Oliveira-Tosti : .</title>
+	<meta name="description" content="Homepage of Altair Santos de Oliveira Tosti"/>
+	<meta name="keywords" content="Altair Santos de Oliveira Tosti, Altair Tosti"/>
+	<meta name="viewport"acontent="width=device-width, initial-scale=1">	
+	<link href="css/estilo.css" rel="stylesheet">
+	<!--Thanks to Yuri Santos-->
+	<link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="css/menor.css" />
+	<link type="text/css" rel="stylesheet" media="only screen and (min-device-width: 481px)" href="css/maior.css" />
+</head>
+
+<!DOCTYPE html>
+	<title>. . : : Altair Santos de Oliveira-Tosti : : . .</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">-->
+	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<style>
+		html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+	</style>
+	<body class="w3-light-grey">
+<!-- Menu de navegação-->
+<div class="topnav">
+	<a class="active" href="https://altairsot.github.io/index.html">Página Principal</a>
+	<a href="https://altairsot.github.io/ensino.html">Ensino</a>
+  <a href="https://altairsot.github.io/ensino.html">Extensão</a>
+	<a href="https://altairsot.github.io/orientacoes.html">Orientações</a>
+  	<a href="https://altairsot.github.io/pesquisa.html">Pesquisa</a>
+	<a href="https://altairsot.github.io/legais.html">Links Sugeridos</a>
+</div>
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+	<!-- The Grid -->
+	<div class="w3-row-padding">
+		<div class="w3-container w3-card w3-white w3">
+			<h3 class="w3-padding-16">Extensão</h3>
+          <p>Nesta nesta página, reuno as informações sobre atividades de extensão que desenvolvo.</p>
+    			<p>Com a minha chegada à UENP, passei a desenvolver atividades de extensão, com o intuito de estreitar a relação da comunidade externa com a UENP-CCP, principalmente com o Colegiado de Matemática.</p>
+		    	<div class="w3-container w3-card w3-white w3-margin-bottom">
+        			<div class="w3-container">
+					      <h5 class="w3-opacity w3-center"><b>Ensino da Matemática na Educação Básica</b></h5>
+			          <p> Atuo como coordenador do projeto de extensão intitulado "Ensino da Matemática na Educação Básica". O projeto visa o contato dos discentes do curso de Licenciatura em Matemática, com alunos da Educação
+                  Básica (Ensino Fundamental - Anos Finais - e Ensino Médio), além de auxiliar estes alunos com conteúdos básicos matemáticos, proporcionando uma revisão de conteúdos. Estes alunos são oriundos de escolas públicas. Tal projeto já existia na instituição e o coordenador que me antecedeu foi meu colega <a href="http://lattes.cnpq.br/2482014486805534" target="_blank">João Coelho Neto</a>, também docente do Colegiado de Matemática. Atualmente, o meu colega <a href="http://lattes.cnpq.br/6106921514023734" target="_blank">João Debastiani Neto</a> e alguns discentes do curso participam do projeto.</p> 
+		      		</div>
+			    </div>		
+		</div>
+	</div>
+	 <!-- End Grid -->
+</div>
+<!-- End Page Container -->
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+	<p>O conteúdo desta página é de responsabilidade do autor. Modelo obtido em <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a> e adaptado pelo autor.</p> 
+</footer>
+</body>
+</html>
