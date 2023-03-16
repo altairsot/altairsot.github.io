@@ -1,0 +1,83 @@
+<html>
+<head> <!-- CABEÇALHO -->
+	<meta charset="utf-8" />
+	<meta name="author" content="Altair" >
+	<meta content="text/html; charset=UTF-8">
+	<title>. : Altair Santos de Oliveira-Tosti : .</title>
+	<meta name="description" content="Homepage of Altair Santos de Oliveira Tosti"/>
+	<meta name="keywords" content="Altair Santos de Oliveira Tosti, Altair Tosti"/>
+	<meta name="viewport"acontent="width=device-width, initial-scale=1">	
+	<link href="css/estilo.css" rel="stylesheet">
+	<!--Thanks to Yuri Santos-->
+	<link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="css/menor.css" />
+	<link type="text/css" rel="stylesheet" media="only screen and (min-device-width: 481px)" href="css/maior.css" />
+</head>
+
+<!DOCTYPE html>
+	<title>. . : : Altair Santos de Oliveira-Tosti : : . .</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">-->
+	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<style>
+		html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+	</style>
+	<body class="w3-light-grey">
+<!-- Menu de navegação-->
+<div class="topnav">
+	<a class="active" href="https://altairsot.github.io/index.html">Página Principal</a>
+	<a href="https://altairsot.github.io/ensino.html">Ensino</a>
+	<a href="https://altairsot.github.io/extensao.html">Extensão</a>
+	<a href="https://altairsot.github.io/orientacoes.html">Orientações</a>
+  	<a href="https://altairsot.github.io/pesquisa.html">Pesquisa</a>
+	<a href="https://altairsot.github.io/legais.html">Links Sugeridos</a>
+</div>
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+	<!-- The Grid -->
+	<div class="w3-row-padding">
+		<div class="w3-container w3-card w3-white w3">
+			<h3 class="w3-padding-16">Fundamentos</h3>
+				<div class="w3-container w3-card w3-white w3-margin-bottom">
+        				<h5 class="w3-opacity w3-center"><b>Ementa</b></h5>
+						<p>Introdução ao pensamento matemático: o método dedutivo, demonstrações de proposições enunciadas como implicações, demonstrações de proposições não enunciadas como implicações, demonstração por indução matemática. Introdução à Teoria de Conjuntos: Inclusão, Interseção, União, Complementar. Conjuntos Numéricos. Números reais. Equações e Inequações. Funções de uma variável real e seus gráficos: Funções polinomiais, funções racionais, funções logarítmicas, funções exponenciais e funções trigonométricas. Funções inversas e compostas. Os temas devem, no que couber, serem articulados com a Base Nacional Comum Curricular (BNCC). Orientação de atividades de Prática como Componente Curricular.</p>
+					<h5 class="w3-opacity w3-center"><b>Horário de Atendimento</b></h5>
+						<p>A ser definido</p>
+            
+						<p></p>
+					<h5 class="w3-opacity w3-center"><b>Formas e Critérios de Avaliação</b></h5>
+						<p>A avaliação da aprendizagem se dará de forma contínua durante todo o período letivo. Serão realizadas:</p>
+    						<p>04 (quatro) avaliações, cujas notas serão denotadas por A1, A2, A3 e A4. Todas as avaliações terão valores mínimo 0 (zero) e máximo 100 (cem). As avaliações A1 e A2 serão aplicadas no primeiro semestre letivo, enquanto que as provas A3 e A4 serão aplicadas no segundo semestre letivo;</p>
+    						<p>Atividades quinzenais ao final da aula, ou na plataforma AVA, e listas de exercícios, cujas datas ficam a cargo do docente, com valores mínimo 0 (zero) e máximo 100 (cem). Ao final do período letivo, o docente calculará a média simples das notas dessas atividades. A média será denotada por MA.</p>
+                        <p>Além destas atividades avaliativas, o docente incentivará a participação em sala de aula, por considerar fundamental para o desenvolvimento da disciplina e evolução dos discentes. A participação será avaliada a cada aula e, ao final do curso, o docente atribuirá uma nota P (de participação), com valor mínimo 0 (zero), caso o estudante não participe de nenhuma aula, e máximo 100 (cem), caso o estudante participe de todas as aulas.</p>
+    						<p>A média final (MF) do discente será calculada da seguinte maneira: (1xP + 2xMA + 2xA1 + 3xA2 + 3xA3 + 4xA4) / 15.</p>
+					<h5 class="w3-opacity w3-center"><b>Referências</b></h5>
+						<p>
+							<b>Referência Básica</b><br>
+                    ALENCAR FILHO, E. <b>Iniciação a Lógica Matemática</b>. São Paulo: Nobel, 1986.<br>
+                    CARAÇA, B. J. <b>Conceitos Fundamentais da Matemática</b>. Lisboa: Gradiva, 1998.<br>
+                    MURAKAMI, C.; IEZZI, G. <b>Fundamentos de Matemática Elementar:</b> conjuntos e funções, v. 1. 9. ed. São Paulo: Atual, 2013.<br>
+           		            <b>Referência Complementar</b><br>
+					BRASIL. Ministério da Educação. <b>Base Nacional Comum Curricular</b>. Brasília, 2018.
+                    COSTA, Manuel Amoroso. <b>As Idéias Fundamentais da Matemática</b>. São Paulo, Editora Grijalbo, 1971.
+                    LIMA, Elon Lages <i>et al.</i> <b>A Matemática do Ensino Médio</b> - volume 1. 11. ed. Rio de Janeiro: Sbm, 2016. (Coleção do Professor de Matemática).
+                    IEZZI, Gelson, DOLCE, Osvaldo, MURAKAMI, Carlos. <b>Fundamentos de Matemática Elementar:</b> logaritmos, v. 2, 9. ed. São Paulo: Atual, 2013. 
+                    ______. <b>Fundamentos de Matemática Elementar:</b> Complexos, Polinômios e Equações, v. 6, 9. ed. São Paulo: Atual, 2013.
+                    ZILL, D.; DOWAR, J. <b>Basic mathematics for calculus</b>. New York: McGraw-Hill, 1994.
+
+						</p>
+					<h5 class="w3-opacity w3-center"><b>Listas de Exercícios</b></h5>
+					<p>As listas de exercícios serão disponibilizadas no AVA-UENP e via SUAP. A entrega será feita unicamente via AVA-UENP.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	 <!-- End Grid -->
+</div>
+<!-- End Page Container -->
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+	<p>O conteúdo desta página é de responsabilidade do autor. Modelo obtido em <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a> e adaptado pelo autor.</p> 
+</footer>
+</body>
+</html>
