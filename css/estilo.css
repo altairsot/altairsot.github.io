@@ -52,6 +52,11 @@ color: #00008B;
   margin: 25px 0 0 0;
 }
 
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
 
 #body{
 background-color: #FAFAFA;
