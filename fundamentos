@@ -1,0 +1,80 @@
+<html>
+<head> <!-- CABEÇALHO -->
+	<meta charset="utf-8" />
+	<meta name="author" content="Altair" >
+	<meta content="text/html; charset=UTF-8">
+	<title>. : Altair Santos de Oliveira-Tosti : .</title>
+	<meta name="description" content="Homepage of Altair Santos de Oliveira Tosti"/>
+	<meta name="keywords" content="Altair Santos de Oliveira Tosti, Altair Tosti"/>
+	<meta name="viewport"acontent="width=device-width, initial-scale=1">	
+	<link href="../../css/estilo.css" rel="stylesheet">
+	<!--Thanks to Yuri Santos-->
+	<link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="../../css/menor.css" />
+	<link type="text/css" rel="stylesheet" media="only screen and (min-device-width: 481px)" href="../../css/maior.css" />
+</head>
+
+<!DOCTYPE html>
+	<title>. . : : Altair Santos de Oliveira-Tosti : : . .</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">-->
+	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<style>
+		html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+	</style>
+	<body class="w3-light-grey">
+<!-- Menu de navegação-->
+<div class="topnav">
+	<a class="active" href="https://altairsot.github.io/index.html">Página Principal</a>
+	<a href="https://altairsot.github.io/ensino.html">Ensino</a>
+	<a href="https://altairsot.github.io/orientacoes.html">Orientações</a>
+	<a href="https://altairsot.github.io/pesquisa.html">Pesquisa</a>
+</div>
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+	<!-- The Grid -->
+	<div class="w3-row-padding">
+		<div class="w3-container w3-card w3-white w3">
+			<h3 class="w3-padding-16">Estruturas Algébricas II</h3>
+				<div class="w3-container w3-card w3-white w3-margin-bottom">
+        				<h5 class="w3-opacity w3-center"><b>Ementa</b></h5>
+						<p>Breve Revisão de Conceitos e Resultados Básicos sobre Grupos. Teoremas de Sylow: Ação de Grupo sobre um Conjunto, Teoremas de Sylow e Aplicações na Classificação de Grupos Finitos. Grupos Simples e Grupos Solúveis. Breve Revisão de Conceitos e Resultados Básicos sobre Anéis. Domínios Fatoriais: Relação de Divisibilidade. Elementos Associados, Irredutíveis e Primos. Máximo Divisor Comum e Mínimo Múltiplo Comum. Domínios Euclidianos: Definição e Exemplos. Fatoração Única em Domínios Euclidianos. Polinômios sobre Domínios Fatoriais: Polinômios Primitivos, Polinômios Irredutíveis, Fatoração de Polinômios. Lema de Gauss. Anel de Polinômios em Várias Indeterminadas: Algoritmo da Divisão e Resultante.</p>
+					<h5 class="w3-opacity w3-center"><b>Horário de Atendimento</b></h5>
+						<p>Quinta-feira: 18h00 - 19h00</p>
+            <p>Sexta-feira: 18h00 - 19h00</p>
+
+						<p></p>
+					<h5 class="w3-opacity w3-center"><b>Formas e Critérios de Avaliação</b></h5>
+						<p>A avaliação da aprendizagem se dará de forma contínua durante todo o período letivo. Serão realizadas:</p>
+    						<p>04 (quatro) avaliações, cujas notas serão denotadas por A1, A2, A3 e A4. Todas as avaliações terão valores mínimo 0 (zero) e máximo 100 (cem). As avaliações A1 e A2 serão aplicadas no primeiro semestre letivo, enquanto que as provas A3 e A4 serão aplicadas no segundo semestre letivo;</p>
+    						<p>Atividades quinzenais ao final da aula, ou na plataforma AVA, cujas datas ficam a cargo do docente. A média simples das notas dessas atividades será denotada por MA;</p>
+    						<p>A média final (MF) do discente será calculada da seguinte maneira: (2xMA + 2xA1 + 3xA2 + 3xA3 + 4xA4) / 14.</p>
+					<h5 class="w3-opacity w3-center"><b>Referências</b></h5>
+						<p>
+							<b>Referência Básica</b><br>
+							      GARCIA, A.; LEQUAIN, Y. Álgebra: um curso de introdução. Rio de Janeiro: IMPA, 1988.<br>
+                    GONÇALVES, A. Introdução à álgebra. Rio de Janeiro: IMPA, 1987.<br>
+                    ZARISKI, O.; SAMUEL, P. Commutative Algebra, vol 1. New York: Springer, 1960ÁVILA, G. Análise matemática para a licenciatura. São Paulo: Edgard Blucher, 2001.<br>
+           		<b>Referência Complementar</b><br>
+							      DEAN, R. A. Elementos de álgebra abstrata. Rio de Janeiro: Livros Técnicos e Científicos Editora S.A., 1974.<br>
+                    DOMINGUES, H. H.; IEZZI, G. Álgebra Moderna. São Paulo: Atual, 2003.<br>
+                    HERSTEIN, I. N. Tópicos de álgebra. São Paulo: EDUSP, Polígono, 1970.<br>
+                    MONTEIRO, L. H. J. Elementos de álgebra. Rio de Janeiro: Livros Técnicos e Científicos Editora S.A,1978.<br>
+                    PAPANTONOPOULOU, A. Algebra: Pure and Applied. Pearson , 2002;<br>
+                    ROTMAN, J. J. A First Course in Abstract Algebra With Aplications. Pearson. 1995.<br>
+						</p>
+					<h5 class="w3-opacity w3-center"><b>Listas de Exercícios</b></h5>
+					<p>As listas de exercícios serão disponibilizadas no AVA-UENP e via SUAP. A entrega será feita unicamente via AVA-UENP.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	 <!-- End Grid -->
+</div>
+<!-- End Page Container -->
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+	<p>O conteúdo desta página é de responsabilidade do autor. Modelo obtido em <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a> e adaptado pelo autor.</p> 
+</footer>
+</body>
+</html>
